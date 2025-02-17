@@ -33,3 +33,7 @@ The script offers a simple CLI that allows users to choose between creating a ba
 **5. Error Handling and Optimization**
 
 The script handles errors like missing files or permission issues without crashing. It also optimizes memory usage by processing files in chunks, making it efficient for larger directories and files.
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/a6e2f45f-44a8-49a8-a33d-9f78a64c0b34)
+
